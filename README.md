@@ -1,4 +1,4 @@
-# ALTERA-O-Criando-seu-jogo-de-mem-ria-estilo-Genius
+# MODIFICADO-Criando-seu-jogo-de-mem-ria-estilo-Genius
 
 ## Criando seu jogo de memória estilo Genius
 DESCRIÇÃO Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, 
